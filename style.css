@@ -1,0 +1,22 @@
+body{
+    background-color:red;
+}
+img{
+    width:500px;
+    height:300px;
+
+    margin-bottom:25px;
+    padding-left:25px;
+    margin-top:25px;
+}
+img:hover{
+    border-radius:15%;
+}
+footer{
+    position: fixed;
+    bottom:0;
+    width:100%;
+    margin-top:15px;
+    text-align: center;
+    background-color: white;
+}
